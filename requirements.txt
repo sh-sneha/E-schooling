@@ -121,7 +121,7 @@ pytools==2021.2.8
 pytz==2020.4
 PyWavelets==1.1.1
 
-pywinpty==1.1.4
+
 PyYAML==5.4.1
 pyzmq==22.3.0
 qtconsole==5.1.1
