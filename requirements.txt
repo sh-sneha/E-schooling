@@ -107,7 +107,7 @@ prompt-toolkit==3.0.10
 psycopg2==2.9.3
 psycopg2-binary==2.8.6
 pycparser==2.20
-pycuda==2021.1
+
 Pygments==2.10.0
 PyJWT==1.7.1
 pyparsing==2.4.7
